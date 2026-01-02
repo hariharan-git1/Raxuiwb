@@ -1114,7 +1114,7 @@ Widget _menuIcon(IconData icon, {bool isActive = false}) {
       ),
       child: Icon(icon, color: Colors.white),
     ),
-  );
+  );m
 }
 
 class _SummaryText extends StatelessWidget {
